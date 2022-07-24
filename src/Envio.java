@@ -11,8 +11,4 @@ public class Envio {
   String getTipoEnvio() {
     return this.tipo;
   }
-
-  void crearTipoEnvio(Envio envio) {
-    //Save Envio DB
-  }
 }

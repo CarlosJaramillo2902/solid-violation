@@ -1,6 +1,6 @@
 public class CrearEnvio{
 
-    public void crearTipoEnvio(Envio envio) {
+    public void crearTipoEnvio(Tiempo envio) {
     //Save Envio DB
   }  
 }
